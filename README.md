@@ -3,7 +3,7 @@
 
 This Code will help you to track down people who don't follow you or have unfollowed you recently on Instagram. 
 
-You'll get to know this when you go to the 'following's' list of person and this application would do this 100s of times in just a few seconds.
+It'll be time consuming go to check the 'following's' list of each person but this application would do this 100s of times in just a few seconds.
 
 It's a fun application to make and also a great way to learn about bot creation and it's usage.
 
