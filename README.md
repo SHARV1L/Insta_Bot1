@@ -23,10 +23,10 @@ It's a fun application to make and also a great way to learn about bot creation 
 
 6.)Check if it is actually installed by typing : virtualenv
 
-7.)Install Selenium(used in Browser Automation and in Playback Testing tool) : 
+7.)Install Selenium(used in Browser Automation and as a Playback Testing tool) : 
     >pip install selenium
 
-8.)Install Chrome driver(Install the correct version of your Chrome Browser or Chromium)
+8.)Install Chrome driver(Install the correct version of your Chrome Browser/Chromium)
 
 9.)Unzip, copy and paste the 'executable file' in(Windows) at : C:\Windows\<chrome_driver_file>
 
